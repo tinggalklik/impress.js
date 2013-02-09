@@ -8,6 +8,9 @@ transitions in modern browsers and inspired by the idea behind prezi.com.
 
 impress.js may not help you if you have nothing interesting to say ;)
 
+**Other Warning**
+
+This is Brian Levine's copy of this code. Not that you can't take it, of course, just that it's better to take the original. My changes aren't useful.
 
 ABOUT THE NAME
 ----------------
